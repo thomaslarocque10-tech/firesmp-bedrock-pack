@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "FIRESMP Bedrock Pack",
+    "name": "firesmp",
+    "uuid": "e4d909c2-5b8b-4c3e-9f1a-123456789001",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "FIRESMP Functions",
+      "type": "data",
+      "uuid": "e4d909c2-5b8b-4c3e-9f1a-123456789002",
+      "version": [1, 0, 0]
+    }
+  ]
+}
